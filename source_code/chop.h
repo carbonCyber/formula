@@ -26,7 +26,7 @@
 # ifndef    FORMULA_CHOP__GUARD
 # define    FORMULA_CHOP__GUARD
 
-# include   "formula.h"
+# include   "formula_pop.h"
 
 namespace fml {
 
