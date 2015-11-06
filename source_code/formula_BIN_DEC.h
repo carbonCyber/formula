@@ -22,6 +22,7 @@ namespace fml {
         while (I /= 10) DEC *= 2, DEC += I % 10;
         return DEC - !MR;
     };  /*  algorithm bug with runtime functions    */
+    
 };
 
 # endif
