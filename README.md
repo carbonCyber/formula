@@ -1,6 +1,6 @@
 # formula
 a collection of many useful algorithms.
-\n-generic algorithms
+<br/>-generic algorithms
   -string manipulation
   -and more
 
